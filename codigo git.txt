@@ -1,0 +1,3 @@
+Para iniciar um git em uma pasta ->  botão direito do mouse
+GIT BASH HERE
+comando: git init
